@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css",
+    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.be317b91.chunk.js",
+    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.be317b91.chunk.js.map",
+    "runtime-main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js",
+    "runtime-main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js.map",
+    "static/js/2.e8445213.chunk.js": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js",
+    "static/js/2.e8445213.chunk.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js.map",
+    "index.html": "/Asistente-Virtual-Kaleido-Lab/index.html",
+    "precache-manifest.84b615945608e2d2ec02d0700ca3cfbd.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.84b615945608e2d2ec02d0700ca3cfbd.js",
+    "service-worker.js": "/Asistente-Virtual-Kaleido-Lab/service-worker.js",
+    "static/css/main.1f7a4c1e.chunk.css.map": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css.map",
+    "static/js/2.e8445213.chunk.js.LICENSE.txt": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/Asistente-Virtual-Kaleido-Lab/static/media/Logo.32ed4a80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec0a0b2f.js",
+    "static/js/2.e8445213.chunk.js",
+    "static/css/main.1f7a4c1e.chunk.css",
+    "static/js/main.be317b91.chunk.js"
+  ]
+}
