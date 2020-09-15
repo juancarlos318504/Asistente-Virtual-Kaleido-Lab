@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "408b13d2b43f82644e853d45d5ab5530",
+    "revision": "10d4751a68d719e71146d3e68179758c",
     "url": "/Asistente-Virtual-Kaleido-Lab/index.html"
   },
   {
-    "revision": "858e7e663de21d6a2971",
+    "revision": "cef9431d75f692f0d45a",
     "url": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "858e7e663de21d6a2971",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/main.be317b91.chunk.js"
+    "revision": "cef9431d75f692f0d45a",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/main.0cd8e112.chunk.js"
   },
   {
     "revision": "fb08d7b6b006f39efe65",
     "url": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js"
   },
   {
-    "revision": "32ed4a809b49ef04c0cb882ee6a66b19",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/media/Logo.32ed4a80.png"
+    "revision": "432a6d40f2596376fccb4a668d9c2859",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/media/Logo-Alcaldia.432a6d40.png"
   }
 ]);
