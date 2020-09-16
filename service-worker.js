@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Asistente-Virtual-Kaleido-Lab/precache-manifest.8938b18a97ddf69a565e38942ac3fef1.js"
+  "/Asistente-Virtual-Kaleido-Lab/precache-manifest.a747a3c6f9924a1bd2869e6d54e0c538.js"
 );
 
 self.addEventListener('message', (event) => {

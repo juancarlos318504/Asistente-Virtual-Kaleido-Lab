@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css",
-    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.0cd8e112.chunk.js",
-    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.0cd8e112.chunk.js.map",
+    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.5b6c9f7d.chunk.js",
+    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.5b6c9f7d.chunk.js.map",
     "runtime-main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js",
     "runtime-main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js.map",
-    "static/js/2.e8445213.chunk.js": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js",
-    "static/js/2.e8445213.chunk.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js.map",
+    "static/js/2.89736f63.chunk.js": "/Asistente-Virtual-Kaleido-Lab/static/js/2.89736f63.chunk.js",
+    "static/js/2.89736f63.chunk.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/2.89736f63.chunk.js.map",
     "index.html": "/Asistente-Virtual-Kaleido-Lab/index.html",
-    "precache-manifest.8938b18a97ddf69a565e38942ac3fef1.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.8938b18a97ddf69a565e38942ac3fef1.js",
+    "precache-manifest.a747a3c6f9924a1bd2869e6d54e0c538.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.a747a3c6f9924a1bd2869e6d54e0c538.js",
     "service-worker.js": "/Asistente-Virtual-Kaleido-Lab/service-worker.js",
     "static/css/main.1f7a4c1e.chunk.css.map": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css.map",
-    "static/js/2.e8445213.chunk.js.LICENSE.txt": "/Asistente-Virtual-Kaleido-Lab/static/js/2.e8445213.chunk.js.LICENSE.txt",
+    "static/js/2.89736f63.chunk.js.LICENSE.txt": "/Asistente-Virtual-Kaleido-Lab/static/js/2.89736f63.chunk.js.LICENSE.txt",
     "static/media/Logo-Alcaldia.png": "/Asistente-Virtual-Kaleido-Lab/static/media/Logo-Alcaldia.432a6d40.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec0a0b2f.js",
-    "static/js/2.e8445213.chunk.js",
+    "static/js/2.89736f63.chunk.js",
     "static/css/main.1f7a4c1e.chunk.css",
-    "static/js/main.0cd8e112.chunk.js"
+    "static/js/main.5b6c9f7d.chunk.js"
   ]
 }
