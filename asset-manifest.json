@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css",
-    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.5b6c9f7d.chunk.js",
-    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.5b6c9f7d.chunk.js.map",
+    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.edc8142f.chunk.js",
+    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.edc8142f.chunk.js.map",
     "runtime-main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js",
     "runtime-main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js.map",
-    "static/js/2.89736f63.chunk.js": "/Asistente-Virtual-Kaleido-Lab/static/js/2.89736f63.chunk.js",
-    "static/js/2.89736f63.chunk.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/2.89736f63.chunk.js.map",
+    "static/js/2.5abf962b.chunk.js": "/Asistente-Virtual-Kaleido-Lab/static/js/2.5abf962b.chunk.js",
+    "static/js/2.5abf962b.chunk.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/2.5abf962b.chunk.js.map",
     "index.html": "/Asistente-Virtual-Kaleido-Lab/index.html",
-    "precache-manifest.a747a3c6f9924a1bd2869e6d54e0c538.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.a747a3c6f9924a1bd2869e6d54e0c538.js",
+    "precache-manifest.0505bcdf800bbed4e27f6bcce71a9a12.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.0505bcdf800bbed4e27f6bcce71a9a12.js",
     "service-worker.js": "/Asistente-Virtual-Kaleido-Lab/service-worker.js",
     "static/css/main.1f7a4c1e.chunk.css.map": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css.map",
-    "static/js/2.89736f63.chunk.js.LICENSE.txt": "/Asistente-Virtual-Kaleido-Lab/static/js/2.89736f63.chunk.js.LICENSE.txt",
-    "static/media/Logo-Alcaldia.png": "/Asistente-Virtual-Kaleido-Lab/static/media/Logo-Alcaldia.432a6d40.png"
+    "static/js/2.5abf962b.chunk.js.LICENSE.txt": "/Asistente-Virtual-Kaleido-Lab/static/js/2.5abf962b.chunk.js.LICENSE.txt",
+    "static/media/Bienvenida.mp4": "/Asistente-Virtual-Kaleido-Lab/static/media/Bienvenida.7ef623b5.mp4",
+    "static/media/RespuestaEmpleo.mp4": "/Asistente-Virtual-Kaleido-Lab/static/media/RespuestaEmpleo.f16c7cc6.mp4",
+    "static/media/RespuestaSalud.mp4": "/Asistente-Virtual-Kaleido-Lab/static/media/RespuestaSalud.d6ccd02a.mp4",
+    "static/media/RespuestaTriste.mp4": "/Asistente-Virtual-Kaleido-Lab/static/media/RespuestaTriste.b7eca92f.mp4",
+    "static/media/image001.png": "/Asistente-Virtual-Kaleido-Lab/static/media/image001.54586fc3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ec0a0b2f.js",
-    "static/js/2.89736f63.chunk.js",
+    "static/js/2.5abf962b.chunk.js",
     "static/css/main.1f7a4c1e.chunk.css",
-    "static/js/main.5b6c9f7d.chunk.js"
+    "static/js/main.edc8142f.chunk.js"
   ]
 }
