@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Asistente-Virtual-Kaleido-Lab/static/css/main.d21a9520.chunk.css",
-    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.7c3e19c4.chunk.js",
-    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.7c3e19c4.chunk.js.map",
+    "main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/main.a9940d3a.chunk.js",
+    "main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/main.a9940d3a.chunk.js.map",
     "runtime-main.js": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js",
     "runtime-main.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/runtime-main.ec0a0b2f.js.map",
     "static/js/2.2cddc476.chunk.js": "/Asistente-Virtual-Kaleido-Lab/static/js/2.2cddc476.chunk.js",
     "static/js/2.2cddc476.chunk.js.map": "/Asistente-Virtual-Kaleido-Lab/static/js/2.2cddc476.chunk.js.map",
     "index.html": "/Asistente-Virtual-Kaleido-Lab/index.html",
-    "precache-manifest.6315ca8a3a1a4b20b2b3e2bc1dcbee00.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.6315ca8a3a1a4b20b2b3e2bc1dcbee00.js",
+    "precache-manifest.5406571f665a6cfdc3ec9571f5aa1c57.js": "/Asistente-Virtual-Kaleido-Lab/precache-manifest.5406571f665a6cfdc3ec9571f5aa1c57.js",
     "service-worker.js": "/Asistente-Virtual-Kaleido-Lab/service-worker.js",
     "static/css/main.d21a9520.chunk.css.map": "/Asistente-Virtual-Kaleido-Lab/static/css/main.d21a9520.chunk.css.map",
     "static/js/2.2cddc476.chunk.js.LICENSE.txt": "/Asistente-Virtual-Kaleido-Lab/static/js/2.2cddc476.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.ec0a0b2f.js",
     "static/js/2.2cddc476.chunk.js",
     "static/css/main.d21a9520.chunk.css",
-    "static/js/main.7c3e19c4.chunk.js"
+    "static/js/main.a9940d3a.chunk.js"
   ]
 }
