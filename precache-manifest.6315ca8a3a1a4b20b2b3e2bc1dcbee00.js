@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4681e1c1dd43cba21cb1563b1e126508",
+    "revision": "bfe9beaf1789ce3c4290c2c145b1cf7c",
     "url": "/Asistente-Virtual-Kaleido-Lab/index.html"
   },
   {
-    "revision": "0c950a58d18073913a35",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/css/main.05b60b9a.chunk.css"
+    "revision": "61162b6f115f330c3ee7",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/css/main.d21a9520.chunk.css"
   },
   {
-    "revision": "df88557f5ab897bfd8cd",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/2.5abf962b.chunk.js"
+    "revision": "481410a3e1db1ad2e57b",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/2.2cddc476.chunk.js"
   },
   {
     "revision": "df1642c39f4a8aa7ea15f32eff69fe15",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/2.5abf962b.chunk.js.LICENSE.txt"
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/2.2cddc476.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c950a58d18073913a35",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/main.5ca349a8.chunk.js"
+    "revision": "61162b6f115f330c3ee7",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/main.7c3e19c4.chunk.js"
   },
   {
     "revision": "fb08d7b6b006f39efe65",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f16c7cc6eddab700206d5098543c0d48",
     "url": "/Asistente-Virtual-Kaleido-Lab/static/media/RespuestaEmpleo.f16c7cc6.mp4"
+  },
+  {
+    "revision": "97b6cb7aa53bae2dc8e08bfe0538f508",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/media/RespuestaFeliz.97b6cb7a.mp3"
   },
   {
     "revision": "d6ccd02a419d5d177561fb99bc31e8f8",
