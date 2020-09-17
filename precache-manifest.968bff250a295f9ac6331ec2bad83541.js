@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "896a6dc1aaa500c2ef0bef681083d561",
+    "revision": "4681e1c1dd43cba21cb1563b1e126508",
     "url": "/Asistente-Virtual-Kaleido-Lab/index.html"
   },
   {
-    "revision": "aaa04c22dd245a58810d",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/css/main.1f7a4c1e.chunk.css"
+    "revision": "0c950a58d18073913a35",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/css/main.05b60b9a.chunk.css"
   },
   {
     "revision": "df88557f5ab897bfd8cd",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Asistente-Virtual-Kaleido-Lab/static/js/2.5abf962b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aaa04c22dd245a58810d",
-    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/main.edc8142f.chunk.js"
+    "revision": "0c950a58d18073913a35",
+    "url": "/Asistente-Virtual-Kaleido-Lab/static/js/main.5ca349a8.chunk.js"
   },
   {
     "revision": "fb08d7b6b006f39efe65",
